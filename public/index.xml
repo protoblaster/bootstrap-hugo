@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap HUGO</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bootstrap HUGO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>xtc@fuxnews.net (XTC)</managingEditor>
+    <webMaster>xtc@fuxnews.net (XTC)</webMaster>
+    <lastBuildDate>Tue, 10 Dec 2024 23:59:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 10 Dec 2024 23:59:28 +0000</pubDate><author>xtc@fuxnews.net (XTC)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;whoami&#34;&gt;WhoAmI?&lt;/h2&gt;&#xA;&lt;p&gt;I am dolar sit amit!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
